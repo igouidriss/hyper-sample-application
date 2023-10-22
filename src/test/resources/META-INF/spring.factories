@@ -1,0 +1,3 @@
+org.springframework.test.context.ContextCustomizerFactory = com.sbm.hyper.\
+    config.SqlTestContainersSpringContextCustomizerFactory,com.sbm.hyper.config.\
+    KafkaTestContainersSpringContextCustomizerFactory
